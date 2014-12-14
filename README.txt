@@ -1,1 +1,1 @@
-This project is an implementation of Holt-Winters Exponential Smoothening method to forecast the number of inbound foreign tourist arrivals in India. The model has been implemented using the "R" statistical programming language.
+This project is an implementation of Holt-Winters Exponential Smoothening method to forecast the number of inbound foreign tourist arrivals in India. The model has been implemented using the "R" statistical programming language. The project details are explained in the accompanying PowerPoint presentation file.
